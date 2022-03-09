@@ -5,13 +5,13 @@ march ads class
 
 **I listen to *Trap Music*
 
-#####Quatations
+##### Quatations
 
 In the word of Kipchoge:
 
 >this is my quote
 
-#####Quote code
+##### Quote code
 '''
 print("Hello Metaverse")
 
@@ -24,12 +24,12 @@ git pull
 
 [Github Documentation](https://docs.github.com/en)
 
-####LISTS OF AI USE CASES
+#### LISTS OF AI USE CASES
 - Conversational AI
 - Computer Vision
 - Accelerated Computing
 
-####LIST OF NLP USE CASES
+#### LIST OF NLP USE CASES
 1. Speech task
 2. machine translation
 3. conversational AI
